@@ -17,7 +17,7 @@ def main():
     # Project Statistics
     ongoing_project_number = 5
     client_satisfaction_average = 4.7
-    services_offered = ["Data Analysis", "Machine Learning Consulting", "Business      Intelligence Solutions"]
+    services_offered = ["Data Analysis", "Machine Learning Consulting", "Business Intelligence Solutions"]
     client_feedback_scores = [4.8, 4.6, 4.9, 5.0, 4.7]
 
     # Formatted Strings for Non-String Variables
